@@ -5,9 +5,9 @@ This session picks up where the Customizing and Extending Web AppBuilder session
 
 ## Useful links
  * Schedule: Thursday, 3/8/2018, 2:30 PM, Primrose C-D
- * [Interactive Slides](https://gavinr.github.io/web-appbuilder-tools-techniques-dev-summit-2018/#/) or [PDF](https://github.com/gavinr/web-appbuilder-tools-techniques-dev-summit-2018/blob/master/slides.pdf) (slides are still in progress)
+ * [Interactive Slides](https://gavinr.github.io/web-appbuilder-tools-techniques-dev-summit-2018/index.html) or [PDF](https://github.com/gavinr/web-appbuilder-tools-techniques-dev-summit-2018/blob/master/slides.pdf) (slides are still in progress)
 ## 2017 Talk
-This talk will address some of the same concepts as last year, but tactically build and expand on those ideas! Last years slides are at [web-appbuilder-tools-techniques-dev-summit-2017](https://github.com/gavinr/https://github.com/gavinr/web-appbuilder-tools-techniques-dev-summit-2017).
+This talk will address some of the same concepts as last year, but tactically build and expand on those ideas! Last years slides are at [web-appbuilder-tools-techniques-dev-summit-2017](https://github.com/gavinr/web-appbuilder-tools-techniques-dev-summit-2017).
 
 ## Web AppBuilder Resources
  * Generator: https://github.com/Esri/generator-esri-appbuilder-js
