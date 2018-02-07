@@ -7,5 +7,5 @@
     <a href="mailto:gbochenek@esri.com">gbochenek@esri.com</a> -
     <a href="https://twitter.com/bosshenek">@bosshenek <i class="fab fa-twitter" title="Twitter"></i></a> <a href="https://github.com/gbochenek"><i class="fab fa-github" title="GitHub"></i></a>
 </p>
-<p>These slides, sample code, and links are at:<br /><a href="INSERT_URL">INSERT_URL</a></p>
+<p>These slides, sample code, and links are at:<br /><a href="http://esriurl.com/wabtools2018">esriurl.com/wabtools2018</a></p>
 <p>Please rate this session in the Esri Events mobile app!</p>
