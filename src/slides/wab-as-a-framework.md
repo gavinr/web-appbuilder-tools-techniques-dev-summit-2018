@@ -59,5 +59,11 @@ Note: Image from https://www.flickr.com/photos/usnavy/8157932721 (US Government 
 
 ---
 
-<!-- .slide: data-background="img/wab-generator-sceenshot.png" data-background-size="634px" data-background-color="#282923" -->
-#### New Features: TypeScript, LiveReload, Builds
+<!-- .slide: data-background="img/typescript.png" data-background-size="2000px" data-background-color="#19273E" -->
+Note: New Features: TypeScript, LiveReload, Builds
+
+---
+
+<!-- .slide: data-background="reveal.js/img/bg-9.png" -->
+
+## Demo
