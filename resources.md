@@ -5,7 +5,7 @@
 - Finding Great Widgets
   - Geonet: [Web AppBuilder Custom Widgets Group](https://geonet.esri.com/groups/web-app-builder-custom-widgets)
   - [WAB Widget Search](http://gavinr.github.io/wab-widget-search)
-  - ArcScripts Search
+  - [ArcGIS CodeSharing](https://codesharing.arcgis.com/)
 - Documentation, Download, and Support:  
     - [developers.arcgis.com/web-appbuilder](https://developers.arcgis.com/web-appbuilder/)
 	- [developers.arcgis.com/javascript](https://developers.arcgis.com/javascript/)
