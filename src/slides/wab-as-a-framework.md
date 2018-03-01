@@ -59,7 +59,13 @@ Note: Image from https://www.flickr.com/photos/usnavy/8157932721 (US Government 
 
 ---
 
-<!-- .slide: data-background="img/typescript.png" data-background-size="2000px" data-background-color="#19273E" -->
+<!-- .slide: data-background="reveal.js/img/bg-7.png" data-background-size="2000px" data-background-color="#19273E" -->
+## New Features
+
+- TypeScript widgets
+- Builds
+- LiveReload
+- Bug Fixes and Minor improvments
 Note: New Features: TypeScript, LiveReload, Builds
 
 ---
