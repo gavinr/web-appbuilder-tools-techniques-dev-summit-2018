@@ -6,6 +6,7 @@ This session picks up where the Customizing and Extending Web AppBuilder session
 ## Useful links
  * Schedule: Thursday, 3/8/2018, 2:30 PM, Primrose C-D
  * [Interactive Slides](https://gavinr.github.io/web-appbuilder-tools-techniques-dev-summit-2018/index.html) or [PDF](https://github.com/gavinr/web-appbuilder-tools-techniques-dev-summit-2018/blob/master/slides.pdf) (slides are still in progress)
+
 ## 2017 Talk
 This talk will address some of the same concepts as last year, but tactically build and expand on those ideas! Last years slides are at [web-appbuilder-tools-techniques-dev-summit-2017](https://github.com/gavinr/web-appbuilder-tools-techniques-dev-summit-2017).
 
@@ -15,4 +16,5 @@ This talk will address some of the same concepts as last year, but tactically bu
  * Geonet: [Web AppBuilder Custom Widgets Group](https://geonet.esri.com/groups/web-app-builder-custom-widgets)
  * [WAB Widget Search](http://gavinr.github.io/wab-widget-search)
  * [WAB Build Tool](https://www.github.com/gbochenek/esri-wab-build)
+ * [Widget Wrapping and Unit Test Example](https://ww.github.com/gbochenek/esri-wab-build)
  * [WAB Awesome list](https://hhkaos.github.io/awesome-arcgis/arcgis/products/web-appbuilder/)

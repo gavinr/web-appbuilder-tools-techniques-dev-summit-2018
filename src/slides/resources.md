@@ -1,7 +1,22 @@
-# Resources
+## Related Talks
+
+*** Javascript Applications for the Enterprise: Building for Production ***
+* Thursday // 5:30 - 6:30
+* Pasadena / Sierra / Ventura
+* George Bochenek / Randy Jones
+
+*** Web Development: The Road Ahead ***
+* Friday // 10:00 - 11:00
+* Primrose B
+* Jeremy Bartley / Andy Gup
+
+---
+
+## Resources
 
 - Widget Generator: [https://github.com/Esri/generator-esri-appbuilder-js](https://github.com/Esri/generator-esri-appbuilder-js)
 - Build Tool: [https://github.com/gbochenek/esri-wab-build](https://github.com/gbochenek/esri-wab-build)
+- Unit Testing Example: [https://github.com/gbochenek/wab-test-example](https://github.com/gbochenek/wab-test-example)
 - Finding Great Widgets
   - Geonet: [Web AppBuilder Custom Widgets Group](https://geonet.esri.com/groups/web-app-builder-custom-widgets)
   - [WAB Widget Search](http://gavinr.github.io/wab-widget-search)
