@@ -1,12 +1,13 @@
 ## Test Your Code
 
-Note:  We've  found that adding unit tests to the widgets you're developing pays huge divedends towards having a higher quality and lower maintainance code base.
+Note: We've  found that adding unit tests to the widgets you're developing pays huge divedends towards having a higher quality and lower maintainance code base.
 
 The obvious benefit is a reduction in regressions as your widget grows in scope.  If you add a test every time a new bug is found or feature added, the chances that bug will pop up again on deployment is greatly reduced.
 
 That being said, the largest benefit for me since I've made test driven development a habit doesn't come from running the tests themselves, but as a design aide.  Writing tests forces you to write easily testable code.  Easily testable code tends to be cleaner, more user focused, and generally less like a giant pile of spaghetti.
 
 I know what you're thinking.  This sounds great and I know I should start implementing more tests...
+
 ---
 
 ### ...but its hard, and I don't have time
