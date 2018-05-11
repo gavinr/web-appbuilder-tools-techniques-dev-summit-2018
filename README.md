@@ -4,6 +4,7 @@ This session picks up where the Customizing and Extending Web AppBuilder session
 
 
 ## Useful links
+ * [Talk Recording](https://youtu.be/cx906oBpcos)
  * Schedule: Thursday, 3/8/2018, 2:30 PM, Primrose C-D
  * [Interactive Slides](https://gavinr.github.io/web-appbuilder-tools-techniques-dev-summit-2018/index.html) or [PDF](https://github.com/gavinr/web-appbuilder-tools-techniques-dev-summit-2018/blob/master/slides.pdf) (slides are still in progress)
 
